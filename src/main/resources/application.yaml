@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: backend-forum-faluchard
+
+server:
+  port: 38141
